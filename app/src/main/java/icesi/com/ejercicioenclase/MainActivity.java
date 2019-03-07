@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         new Thread(){
 
             @Override
-            public void run() {
+            public void run() { 
 
                 try {
 
